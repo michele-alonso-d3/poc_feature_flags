@@ -1,0 +1,45 @@
+﻿<Properties StartupConfiguration="{732CC48D-B077-4B69-8DD7-0225A1C3645B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Models/FeatureFlag.cs">
+    <Files>
+      <File FileName="Controllers/HomeController.cs" Line="63" Column="80" />
+      <File FileName="Startup.cs" Line="51" Column="1" />
+      <File FileName="Program.cs" Line="33" Column="1" />
+      <File FileName="appsettings.json" Line="14" Column="1" />
+      <File FileName="Models/FeatureFlag.cs" Line="12" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="poc_feature_flags" expanded="True">
+            <Node name="poc_feature_flags" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True">
+                <Node name="FeatureFlag.cs" selected="True" />
+              </Node>
+              <Node name="Properties" expanded="True" />
+              <Node name="Views" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>configuration["FeatureA"]</Value>
+          <Value>configuration["FeatureB"]</Value>
+          <Value>oi.Non-Public members</Value>
+          <Value>JsonConvert.DeserializeObject&lt;string&gt;(item.Value)</Value>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.poc__feature__flags PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>
